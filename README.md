@@ -1,4 +1,4 @@
-# This is documentation of Learning Javasacrip
+# This is documentation of Learning Javascript
 ## Topic 1 : Working with window.object
 ### How to show alert
 
